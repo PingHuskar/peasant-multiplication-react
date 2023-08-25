@@ -1,0 +1,2 @@
+# Peasant Multiplication
+- [An ancient method for making multiplications that exploits the powers of 2 and the distributive property of multiplication over addition](https://medium.com/not-zero/peasant-multiplication-72a6555e9c33)
